@@ -28,7 +28,7 @@ This project analyzes customer purchasing behaviour to uncover spending patterns
 
 ✅ Insights & Recommendations: Summarized all findings into a clear, actionable format to highlight high-value customer groups, buying trends, and improvement opportunities for business decisions.
 
-<img width="1324" height="742" alt="dashboard" src="https://github.com/user-attachments/assets/cd7851fb-5c01-43fd-90da-0dfa2ac8a0ab" />
+
 
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
@@ -58,6 +58,68 @@ customer-behavior-analysis/
 ```
 
 ---
+
+<h2><a class="anchor" id="Analysis"></a>Exploratory Data Analysis (EDA)</h2>
+
+
+**Purchase Trends Observed:**
+- Revenue Range: Monthly revenue stable, no extreme spikes or abnormal drops. Peaks visible in April and July — consistent with seasonal buying, not anomalies.
+- Category Contribution: Clothing ($25.7K) and Accessories ($18.6K) dominated sales, showing higher customer preference in these segments.
+
+**Customer Behaviour Patterns**
+- Gender Split: Female 54.4% vs Male 45.6% — slightly skewed but no disproportionate imbalance.
+- Age Group Distribution: Smooth spread across 20–60 years, no unusual clustering around any single age bracket.
+
+**Seasonal Trends**
+- Spring: Highest seasonal revenue ($147.6K), aligning with expected consumer purchasing cycles.
+- Summer & Fall: Moderate but stable demand — no abnormal dips or spikes.
+
+---
+
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+
+- Power BI Dashboard shows:
+  - Product-wise Purchase Value
+  - Monthly Revenue Trend
+  - Season-wise Performance
+  - State-wise Revenue Map
+  - Gender Contribution
+  - Age-Group Revenue
+ 
+<img width="1324" height="742" alt="dashboard" src="https://github.com/user-attachments/assets/cd7851fb-5c01-43fd-90da-0dfa2ac8a0ab" />
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -107,29 +169,3 @@ customer-behavior-analysis/
       - Create project report
    
       - Build presentation deck using Gamma AI
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
-
-
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
-
-## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator.
-I break down complex data topics into simple, practical content that actually helps you land a job.
-
- ### 🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
-
-🎥 YouTube: [Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)
-- Beginner-friendly tutorials, real-world projects, job and career advice
-
-📺 Instagram: [datacareerschool](https://www.instagram.com/datacareerschool/)
-- Quick SQL tips, data memes, and behind-the-scenes content
-
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
-
-
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
