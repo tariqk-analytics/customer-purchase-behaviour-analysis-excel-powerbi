@@ -16,6 +16,8 @@ _Analyzing customer buying patterns and revenue contribution to uncover high-val
 
 ---
 
+<h2><a class="anchor" id="overview"></a>Overview</h2>
+
 ## 📌 Overview
 This project analyzes customer purchasing behaviour to uncover spending patterns, frequency trends, and high-value buyer segments. The entire workflow — from data cleaning and preparation in Excel to interactive insight visualization in Power BI — is built to mirror real retail analytics practices and support revenue-focused decision making.
 
