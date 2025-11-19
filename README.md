@@ -19,20 +19,17 @@ _Analyzing customer buying patterns and revenue contribution to uncover high-val
 
 ---
 
-
-
 ## 📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+This project analyzes customer purchasing behaviour to uncover spending patterns, frequency trends, and high-value buyer segments. The entire workflow — from data cleaning and preparation in Excel to interactive insight visualization in Power BI — is built to mirror real retail analytics practices and support revenue-focused decision making.
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+✅ Data Cleaning & Preparation (Excel): Cleaned the raw customer purchase dataset by fixing missing values, removing duplicates, standardizing columns, and preparing a stable base for analysis.
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+✅ Interactive Visualization (Power BI): Built a dynamic dashboard showing customer segments, contribution patterns, frequency trends, and category-wise insights through slicers, KPIs, and drill-down charts.
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+✅ Insights & Recommendations: Summarized all findings into a clear, actionable format to highlight high-value customer groups, buying trends, and improvement opportunities for business decisions.
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+<img width="1324" height="742" alt="dashboard" src="https://github.com/user-attachments/assets/cd7851fb-5c01-43fd-90da-0dfa2ac8a0ab" />
 
-![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
 ## 🛠️ How to Use This Project
 
