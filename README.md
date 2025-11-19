@@ -59,7 +59,7 @@ customer-behavior-analysis/
 
 ---
 
-<h2><a class="anchor" id="Analysis"></a>Exploratory Data Analysis (EDA)</h2>
+<h2><a class="anchor" id="Analysis"></a>Analysis</h2>
 
 
 **Purchase Trends Observed:**
