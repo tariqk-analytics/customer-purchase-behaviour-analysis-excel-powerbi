@@ -30,6 +30,42 @@ This project analyzes customer purchasing behaviour to uncover spending patterns
 
 <img width="1324" height="742" alt="dashboard" src="https://github.com/user-attachments/assets/cd7851fb-5c01-43fd-90da-0dfa2ac8a0ab" />
 
+---
+<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+
+- CSV file located in `/data/` folder (cleaned_data)
+
+---
+
+<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+
+- Excel (Data Cleaning & Preparation)
+- Power BI (Interactive Visualizations)
+- GitHub
+
+---
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
+```
+customer-behavior-analysis/
+│
+├── README.md
+├── .gitignore
+├── Customer Purchase Behavior Analysis Report.pdf
+│
+├── dashboard/                  # Power BI dashboard file
+│   └── customer_purchase_behaviour_dashboard.pbix
+```
+
+---
+
+
+
+
+
+
+
+
 
 ## 🛠️ How to Use This Project
 
