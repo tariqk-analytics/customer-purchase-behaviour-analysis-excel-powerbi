@@ -90,82 +90,30 @@ customer-behavior-analysis/
 
 ---
 
+<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
+1. Clone the repository:
+```bash
+git clone https://github.com/tariqk-analytics/customer-purchase-behaviour-analysis-excel-powerbi.git
+```
 
+2. Open Power BI Dashboard:
+   - `dashboard/customer_purchase_behaviour_dashboard.pbix`
 
+---
+<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
+- Diversify vendor base to reduce risk
+- Optimize bulk order strategies
+- Reprice slow-moving, high-margin brands
+- Clear unsold inventory strategically
+- Improve marketing for underperforming vendors
 
+---
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
+**Mohd Tariq Khan**  
+Data Analyst  
+📧 Email: tariqk.analytics@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tariqk-analytics/?trk=opento_sprofile_details)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🛠️ How to Use This Project
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
-   ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
-
-    This file contains:
-
-      - Data Import
-
-      - Data exploration
-
-      - Data cleaning
-
-      - Connection to SQL Database
-  
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
-
-      - Create a database in SQL
-
-      - Run Python code to load data into SQL database
-  
-      - Open **customer_behavior_sql_queries.sql**
-  
-      - Answer Business Questions using SQL Queries 
-      
-4. **Connect the SQL Database to Power BI**
-
-      - Open **customer_behavior_dashboard.pbix**
-   
-      - Create interactive dashboard in Power BI
-  
-6. **Create Project Report and Presentation**
-
-      - Create project report
-   
-      - Build presentation deck using Gamma AI
