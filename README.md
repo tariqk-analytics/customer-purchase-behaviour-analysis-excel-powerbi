@@ -1,5 +1,5 @@
 # 🧾Customer Behavior Analysis
-_Analyzing customer buying patterns and revenue contribution to uncover high-value segments and optimize sales strategy using Python, Excel, and Power BI._
+_Analyzing customer buying patterns and revenue contribution to uncover high-value segments and optimize sales strategy using Excel and Power BI._
 
 ---
 
