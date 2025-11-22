@@ -111,7 +111,7 @@ git clone https://github.com/tariqk-analytics/customer-purchase-behaviour-analys
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Mohd Tariq Khan**  
-Data Analyst  
+Aspiring Data Analyst  
 📧 Email: tariqk.analytics@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tariqk-analytics/?trk=opento_sprofile_details)
 
